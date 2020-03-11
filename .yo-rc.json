@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "org.sid"
+    },
+    "jhipsterVersion": "6.5.1",
+    "applicationType": "microservice",
+    "baseName": "MicroserviceTest",
+    "packageName": "org.sid",
+    "packageFolder": "org/sid",
+    "serverPort": "8081",
+    "authenticationType": "oauth2",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "oracle",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "Y2IxOThkNDFkMGM2NTA5MjZmZTk4Y2NmNDc3ZjQwOTg0NDVhZTljYzEzNzkzMGQyYjgyODNlNWU2NTY2YmI4NDE3NGVkZDFhZGY4MDkxNzZmMTU2ZTg4YTAwMjY2NzJiNGE2ZjEyZTg1ZmQ5NjMzODk0Y2YxM2JlZWMxOTdmYTA=",
+    "embeddableLaunchScript": false,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
